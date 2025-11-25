@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="utf-8" />
-  <title>호텔의날 Hotelyday – 호텔·여행 할인코드 & 프로모션 안내</title>
-  <meta name="description" content="호텔의날(Hotelyday)은 호텔·리조트·여행사 프로모션, 카드사 할인, 마이리얼트립 11월 할인코드 등 호텔·여행 할인 정보를 한곳에 모아 제공하는 호텔·여행 프로모션 플랫폼입니다." />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-</head>
-<body>
-
-  <h2>호텔의날(Hotelyday) 소개</h2>
+ <h2>호텔의날(Hotelyday) 소개</h2>
   <p>
     <a href="https://hotelyday.com">호텔의날</a>은 전 세계 호텔·리조트·여행사와 협력하여 
     고객에게 가장 합리적인 가격과 다양한 혜택을 제공하는 
@@ -67,6 +57,3 @@
     다양한 <strong>호텔·여행 프로모션</strong>을 손쉽게 활용할 수 있도록  
     콘텐츠와 서비스를 지속적으로 개선해 나가겠습니다.
   </p>
-
-</body>
-</html>
